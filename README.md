@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohauop
+- 👋 Hi, I’m Bettahar mohammed nador (computer engineering graduate).
 - 👀 I’m interested in the Software, programing languages, Scientific computing for physics (computational physics).
 - 🌱 I’m currently on the AI field and Scientific computing.
 - 💞️ I’m looking to collaborate on great projects
